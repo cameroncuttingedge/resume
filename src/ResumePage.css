@@ -1,0 +1,13 @@
+.resume-page {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .resume-image {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #ddd; /* Optional border */
+    border-radius: 4px; /* Optional rounded corners */
+    padding: 5px; /* Optional padding */
+  }
+  
